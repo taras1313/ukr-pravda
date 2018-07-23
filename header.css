@@ -1,0 +1,221 @@
+.sections {
+    text-align: center;
+    margin: auto;
+    font-size: 11px;
+    line-height: 2em; 
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.sections ul {
+    margin: 0 auto;
+    padding-left: 0;
+    padding: 5px 2.5% 6px 2.5%;
+}
+
+header div ul li {
+    color: #888;
+    display: inline-block;
+    margin-top: 2px;
+    padding: 0 7.5px;
+    letter-spacing: -0.2px;
+}
+
+header div ul li:first-child {
+    padding-left: 0;
+}
+
+.red_small {
+    color: #900022;
+}
+
+.title {
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.name {
+    margin: 8px auto 5px;
+    width: 384px;
+    height: 68px;
+    background-image:url(img/ukr_pravda_bg.jpg);
+    background-repeat: no-repeat;
+}
+
+.p-left {
+    padding-left: 17px;
+}
+
+
+.social {
+    float: left;
+    margin-top: 12px;
+    word-spacing: -4px;
+    margin-left: -9px;
+}
+
+.social a {
+    display: inline-block;
+    width: 60px;
+    height: 40px;
+    border: 1px solid #e3e3e3;
+    margin-right: 8px;
+}
+
+.fb {
+    background-image: url(img/fb_logo.jpg)
+}
+
+.tw {
+    background-image: url(img/tw.jpg)
+}
+
+.tg {
+    background-image: url(img/tg.jpg)
+}
+
+.fb, .tw, .tg {
+    background-repeat: no-repeat;
+}
+
+.lang {
+    padding: 10px 15px;
+    border: 1px solid #e3e3e3;
+    margin-top: 12px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.lang a {
+    line-height: 1.8;
+    font-size: 11px;
+    
+}
+
+.lang_search {
+    float: right;
+    padding-right: 10px;
+}
+
+.search {
+    display: inline-block;
+    margin-top: 12px;
+    border: 1px solid #e3e3e3;
+    margin-left: 4px;
+}
+
+.search_icon {
+    background-image: url(img/search_icon.jpg);
+    background-repeat: no-repeat;
+    width: 60px;
+    height: 40px;
+    display: block;
+}
+
+nav {
+    margin: 0 auto;
+}
+
+nav ul {
+    padding: 7px 15px 7px 15px;
+    text-align: center;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 2em;
+    padding-right: 16px;
+    font-size: 13.5px;
+    letter-spacing: 0.2px;
+}
+
+.news {
+    border-top: 5px solid #900022;
+    background: #333;
+    color: #fff;
+    margin-top: 1px;
+}
+
+.news_holder {
+/*    margin: 0 auto;*/
+    padding: 16px 0;
+    text-align: center;
+    min-height: 72px;
+    margin-left: -117px;
+    position: relative;
+}
+
+.news_holder div {
+    font-size: 14px;
+    font-weight: bolder;
+    display: inline-block;
+    line-height: 1.3;
+    width: 317px;
+    padding-right: 19px;
+    border-right: 1px solid #484848;
+    margin-right: 13px;
+    vertical-align: top;
+    text-align: left;
+    letter-spacing: 0.25px;
+    font-family: 'proxima_nova_rgbold',Arial,sans-serif;
+}
+
+.news_holder div img {
+    float: left;
+    margin: 3px 13px 0 0;
+}
+
+div.n3 {
+    border-right: 0px;
+}
+
+.pfile {
+    float: right;
+    word-spacing: -18px;
+    position: absolute;
+    right: 176px;
+    bottom: 28px;
+}
+
+#pf1 {
+    background-image: url(img/pfile_l.jpg);
+    background-repeat: no-repeat;
+    width: 40px;
+    margin 0;
+    padding: 0;
+    border-right: 0;
+}
+
+#pf2 {
+    background-image: url(img/pfile_r.jpg);
+    background-repeat: no-repeat;
+    width: 40px;
+    margin 0;
+    padding: 0;
+    border-right: 0;
+}
+
+
+
+#pf1 a {
+    
+    display: inline-block;
+    width: 38px;
+    height: 38px;
+    border: 1px solid #484848;
+
+}
+
+#pf2 a {
+    display: inline-block;
+    width: 38px;
+    height: 38px;
+    border: 1px solid #484848;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: 'proxima_nova_rgregular',Arial,sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #888;
+}
+
+
+a:hover, li:hover {
+    color: #900022;    
+}
+
+.max-1175 {
+    max-width: 1175px;
+    margin: auto;
+}
+
